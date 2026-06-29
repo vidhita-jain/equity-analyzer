@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vidhita-jain/equity-analyzer/blob/main/Guide_to_Investing%20(1).ipynb)
+
 # Equity Analyzer
 
 A weighted multi-factor equity analysis tool built in Python that pulls live market data for any stock and generates a buy/hold/avoid recommendation.
